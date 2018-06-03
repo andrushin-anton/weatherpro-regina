@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c779fec1-cd01-4ec4-96ed-b81cdfd82137" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/installer_schedule_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/installer_schedule_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/seller_schedule_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/seller_schedule_controller.rb" />
-    </list>
+    <list default="true" id="c779fec1-cd01-4ec4-96ed-b81cdfd82137" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/public/system/" />
@@ -308,12 +304,12 @@
       <workItem from="1524517842183" duration="3617000" />
       <workItem from="1526505371934" duration="5189000" />
       <workItem from="1526737128897" duration="503000" />
-      <workItem from="1527105870184" duration="41000" />
+      <workItem from="1527105870184" duration="96000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17332000" />
+    <option name="totallyTimeSpent" value="17387000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="221" y="136" width="1582" height="823" extended-state="0" />
